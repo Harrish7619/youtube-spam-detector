@@ -44,13 +44,13 @@ Paste a comment, select your preferred model (like Logistic Regression, Naive Ba
 ---
 
 ## 📁 Project Structure
-youtube-spam-detector/
-│
-├── app.py                      ← Your Streamlit app
-├── README.md                   ← Optional, description of project
-├── requirements.txt            ← List of Python packages (explained below)
-├── saved_models/               ← Folder with saved model files
-│   ├── tfidf_vectorizer.joblib
-│   ├── lr_model.joblib
-│   └── ... other model files
+youtube-spam-detector/  
+│  
+├── app.py                      ← Your Streamlit app  
+├── README.md                   ← Optional, description of project  
+├── requirements.txt            ← List of Python packages (explained below)  
+├── saved_models/               ← Folder with saved model files  
+│   ├── tfidf_vectorizer.joblib  
+│   ├── lr_model.joblib  
+│   └── ... other model files  
 
