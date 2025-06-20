@@ -44,7 +44,7 @@ Paste a comment, select your preferred model (like Logistic Regression, Naive Ba
 ---
 
 ## 📁 Project Structure
-youtube-spam-detector/  
+youtube-spam-detector/    
 │  
 ├── app.py                      ← Your Streamlit app  
 ├── README.md                   ← Optional, description of project  
